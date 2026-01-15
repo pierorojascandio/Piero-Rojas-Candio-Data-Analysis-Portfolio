@@ -4,7 +4,7 @@
 
 Hola, soy **Piero Rojas**, Ingeniero de Sistemas de Información colegiado con más de **4 años de experiencia** en los sectores de **banca y consumo masivo**. A lo largo de mi trayectoria, he participado en procesos de auditoría, contabilidad, ventas y reclamos, generando propuestas de valor a través del **análisis de datos**, la **automatización y optimización de procesos**, y la **gestión de proyectos**.
 
-Cuento con sólidos conocimientos en **Business Intelligence y Data Analytics**, trabajando con herramientas como **Power BI (DAX)**, **SQL Server / PL-SQL Oracle**, **Python**, **ETL** y **Excel**, las cuales he aplicado para transformar datos en información clara y accionable para la toma de decisiones. Estoy certificado como **PL-300: Microsoft Power BI Data Analyst Associate**, lo que respalda mi experiencia en modelado de datos, visualización y diseño de dashboards.
+Cuento con sólidos conocimientos en **Business Intelligence y Data Analytics**, trabajando con herramientas como **Power BI (DAX)**, **SQL Server / PL/SQL Oracle**, **Python**, **ETL** y **Excel**, las cuales he aplicado para transformar datos en información clara y accionable para la toma de decisiones. Estoy certificado como **PL-300: Microsoft Power BI Data Analyst Associate**, lo que respalda mi experiencia en modelado de datos, visualización y diseño de dashboards.
 
 Durante mi experiencia profesional he desarrollado una fuerte orientación al negocio, colaborando estrechamente con equipos de IT y usuarios finales, asegurando la calidad de los datos, el rendimiento de las soluciones y una adecuada **experiencia de usuario** en los reportes.
 
