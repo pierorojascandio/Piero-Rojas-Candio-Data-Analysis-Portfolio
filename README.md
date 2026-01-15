@@ -16,6 +16,45 @@ Este repositorio tiene como objetivo **mostrar mis habilidades, compartir proyec
 
 ---
 
+# Tabla de Contenidos
+
+## 👤 Acerca de mí
+- [Acerca de mí](https://github.com/pierorojascandio/Data-Analysis-Portfolio/edit/main/README.md#acerca-de-mi)
+
+## 📁 Proyectos
+- [Análisis de demanda y variación de precios con Python](#análisis-de-demanda-y-variación-de-precios-con-python)
+  - Notebook  
+  - Descripción  
+  - Objetivos  
+  - Fuente de datos  
+  - Herramientas  
+  - Proceso de Análisis  
+  - Resultados  
+
+- [Comparativa de Total Ingresos vs Año Anterior – ContosoSales](#comparativa-de-total-ingresos-vs-año-anterior--contososales)
+  - Demo del Dashboard  
+  - Descripción  
+  - Objetivos  
+  - Fuente de datos  
+  - Herramientas  
+  - Proceso de Desarrollo  
+  - Resultados  
+
+- [Análisis histórico de ventas en la industria de videojuegos](#análisis-histórico-de-ventas-en-la-industria-de-videojuegos)
+  - Demo del Dashboard  
+  - Descripción  
+  - Objetivos  
+  - Fuente de datos  
+  - Herramientas  
+  - Proceso de Desarrollo  
+  - Resultados  
+
+## 📝 Otras Secciones
+- Herramientas y Tecnologías
+- Contacto
+
+---
+
 # 📊 Análisis de demanda y variación de precios con Python
 
 ## Notebook
