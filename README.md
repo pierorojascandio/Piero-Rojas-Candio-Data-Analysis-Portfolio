@@ -77,6 +77,13 @@ El dataset contiene información de ventas con las siguientes variables principa
 
 # 📊 Análisis Histórico de Ventas en la Industria de Videojuegos
 
+## Demo del Dashboard
+Puedes visualizar el funcionamiento del dashboard en el siguiente video:
+
+👉 **[Ver demo del dashboard Power BI en Youtube](https://youtu.be/ZmgXrKBB3Sc)**
+
+---
+
 ## 📌 Descripción del Proyecto
 Proyecto de Business Intelligence orientado al análisis histórico de ventas en la industria
 de videojuegos, utilizando Power BI como herramienta de visualización y Power Query
@@ -88,7 +95,7 @@ de la industria.
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 - Analizar el comportamiento histórico de ventas en la industria de videojuegos.
 - Identificar tendencias de crecimiento y periodos de mayor demanda.
 - Comparar ventas por regiones, plataformas y categorías.
@@ -96,22 +103,20 @@ de la industria.
 
 ---
 
-## 🗂️ Fuente de Datos
+## Fuente de Datos
 - **Archivo Excel** con información histórica de ventas de videojuegos.
 - Datos estructurados y tratados previamente para su análisis en Power BI.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Herramientas
 - Power BI Desktop
 - Power Query (ETL)
 - Microsoft Excel
-- Visualización de datos
-- Principios básicos de UX/UI
 
 ---
 
-## ⚙️ Proceso de Desarrollo
+## Proceso de Desarrollo
 
 ### 1. Carga y Transformación de Datos
 - Importación del dataset desde Excel.
@@ -137,17 +142,10 @@ directamente desde el modelo transformado.
 
 ---
 
-## 📈 Resultados e Insights
+## Resultados
 - Identificación de tendencias históricas en las ventas de videojuegos.
 - Visualización clara de mercados y periodos con mayor volumen de ventas.
 - Dashboard preparado para análisis exploratorio y toma de decisiones.
-
----
-
-## 🎥 Demo del Dashboard
-Puedes visualizar el funcionamiento del dashboard en el siguiente video:
-
-👉 **[Ver demo del dashboard Power BI en Youtube](https://youtu.be/ZmgXrKBB3Sc)**
 
 ---
 
