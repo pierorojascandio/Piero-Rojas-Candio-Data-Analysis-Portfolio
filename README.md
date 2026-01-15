@@ -75,6 +75,71 @@ El dataset contiene información de ventas con las siguientes variables principa
 
 ---
 
+# 📊 Comparativa de Total Ingresos vs Año Anterior – ContosoSales
+
+## Demo del Dashboard
+Puedes visualizar el funcionamiento del dashboard en el siguiente video:
+
+👉 **[Ver demo del dashboard Power BI en Youtube](https://youtu.be/dPycNrLcFQA)**
+
+## Descripción
+Proyecto de Business Intelligence desarrollado en Power BI para la empresa ficticia
+**ContosoSales**, enfocado en el análisis comparativo de los **ingresos totales del año actual
+versus el año anterior**, permitiendo evaluar el desempeño financiero y la evolución de los
+resultados en el tiempo.
+
+El dashboard utiliza indicadores visuales tipo **semáforo**, facilitando la interpretación
+rápida de los resultados por parte de usuarios de negocio.
+
+## Objetivos
+- Comparar el total de ingresos del año actual frente al año anterior.
+- Identificar incrementos o disminuciones en los ingresos.
+- Facilitar el análisis del desempeño financiero mediante indicadores visuales claros.
+- Apoyar la toma de decisiones a nivel gerencial y financiero.
+
+## Fuente de datos
+- **Base de datos Microsoft Access**
+- Datos estructurados y normalizados para su consumo en Power BI
+
+## Herramientas
+- Power BI Desktop (DAX)
+- Power Query (ETL)
+- Microsoft Access
+
+## Proceso de Desarrollo
+
+### 1. Extracción y Transformación de Datos (ETL)
+- Conexión directa a la base de datos en Access.
+- Limpieza y transformación de datos mediante Power Query.
+- Validación de tipos de datos y consistencia de la información.
+- Preparación del modelo para cálculos comparativos.
+
+### 2. Modelado de Datos
+- Definición de relaciones entre tablas.
+- Preparación del modelo para análisis temporal.
+- Optimización del modelo para el uso de medidas DAX.
+
+### 3. Cálculo de Métricas con DAX
+Se desarrollaron medidas DAX para:
+- Total de ingresos del año actual.
+- Total de ingresos del año anterior.
+- Variación de ingresos interanual.
+- Lógica condicional para indicadores visuales.
+
+### 4. Visualización y UX/UI
+- Diseño de un dashboard claro y ejecutivo.
+- Implementación de **indicadores tipo semáforo**:
+  - 🟢 **Verde**: ingresos mayores al año anterior.
+  - 🔴 **Rojo**: ingresos menores al año anterior.
+- Enfoque en lectura rápida y toma de decisiones.
+
+## 📈 Resultados e Insights
+- Visualización inmediata del desempeño financiero.
+- Identificación rápida de periodos con crecimiento o caída de ingresos.
+- Dashboard orientado a usuarios no técnicos y tomadores de decisión.
+
+---
+
 # 📊 Análisis histórico de ventas en la industria de videojuegos
 
 ## Demo del Dashboard
