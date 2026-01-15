@@ -24,9 +24,9 @@ Puedes revisar el desarrollo completo del análisis en el siguiente notebook:
 👉 [Proyecto de análisis de demanda y variación de precios.ipynb](https://github.com/pierorojascandio/Proyectos-Analisis-Datos/blob/main/Proyecto%20de%20an%C3%A1lisis%20de%20demanda%20y%20variaci%C3%B3n%20de%20precios.ipynb)
 
 ## Descripción
-Proyecto de análisis de datos desarrollado en Python con el objetivo de analizar la relación
-entre la variación de precios y la demanda de productos, y proponer un enfoque predictivo
-que apoye la toma de decisiones comerciales.
+Proyecto de análisis de datos desarrollado en Python con el objetivo de **analizar la relación
+entre la variación de precios y la demanda de productos**, y **proponer un enfoque predictivo
+que apoye la toma de decisiones comerciales.**
 
 El proyecto simula un caso de consultoría para una empresa comercializadora de productos,
 enfocado en definir estrategias de precios competitivas basadas en datos.
@@ -85,8 +85,8 @@ Puedes visualizar el funcionamiento del dashboard en el siguiente video:
 👉 **[Ver demo del dashboard Power BI en Youtube](https://youtu.be/dPycNrLcFQA)**
 
 ## Descripción
-Proyecto de Business Intelligence desarrollado en Power BI para la empresa ficticia
-**ContosoSales**, enfocado en el análisis comparativo de los **ingresos totales del año actual
+Proyecto de Business Intelligence desarrollado en Power BI para la empresa
+Contoso, enfocado en el análisis comparativo de los **ingresos totales del año actual
 versus el año anterior**, permitiendo evaluar el desempeño financiero y la evolución de los
 resultados en el tiempo.
 
@@ -96,12 +96,10 @@ rápida de los resultados por parte de usuarios de negocio.
 ## Objetivos
 - Comparar el total de ingresos del año actual frente al año anterior.
 - Identificar incrementos o disminuciones en los ingresos.
-- Facilitar el análisis del desempeño financiero mediante indicadores visuales claros.
-- Apoyar la toma de decisiones a nivel gerencial y financiero.
+- Facilitar el análisis del desempeño financiero mediante indicadores claros.
 
 ## Fuente de datos
-- **Base de datos Microsoft Access**
-- Datos estructurados y normalizados para su consumo en Power BI
+- Base de datos Microsoft Access (datos estructurados y normalizados para su consumo en Power BI)
 
 ## Herramientas
 - Power BI Desktop (DAX)
@@ -122,20 +120,20 @@ rápida de los resultados por parte de usuarios de negocio.
 - Optimización del modelo para el uso de medidas DAX.
 
 ### 3. Cálculo de Métricas con DAX
-Se desarrollaron medidas DAX para:
+Se desarrollaron medidas DAX principalmente para:
 - Total de ingresos del año actual.
 - Total de ingresos del año anterior.
 - Variación de ingresos interanual.
 - Lógica condicional para indicadores visuales.
 
-### 4. Visualización y UX/UI
+### 4. Visualización
 - Diseño de un dashboard claro y ejecutivo.
 - Implementación de **indicadores tipo semáforo**:
   - 🟢 **Verde**: ingresos mayores al año anterior.
   - 🔴 **Rojo**: ingresos menores al año anterior.
 - Enfoque en lectura rápida y toma de decisiones.
 
-## 📈 Resultados e Insights
+## Resultados
 - Visualización inmediata del desempeño financiero.
 - Identificación rápida de periodos con crecimiento o caída de ingresos.
 - Dashboard orientado a usuarios no técnicos y tomadores de decisión.
@@ -154,19 +152,17 @@ Proyecto de Business Intelligence orientado al análisis histórico de ventas en
 de videojuegos, utilizando Power BI como herramienta de visualización y Power Query
 para el proceso de transformación y preparación de los datos.
 
-El objetivo del dashboard es permitir el análisis de las ventas a lo largo del tiempo,
+El objetivo del dashboard es **permitir el análisis de las ventas a lo largo del tiempo,
 identificando tendencias, mercados relevantes y desempeño por categorías clave dentro
-de la industria.
+de la industria.**
 
 ## Objetivos
 - Analizar el comportamiento histórico de ventas en la industria de videojuegos.
 - Identificar tendencias de crecimiento y periodos de mayor demanda.
 - Comparar ventas por regiones, plataformas y categorías.
-- Facilitar la exploración de datos mediante una interfaz clara e intuitiva.
 
 ## Fuente de Datos
-- **Archivo Excel** con información histórica de ventas de videojuegos.
-- Datos estructurados y tratados previamente para su análisis en Power BI.
+- Archivo Excel con información histórica de ventas de videojuegos (datos estructurados y tratados previamente para su análisis en Power BI)
 
 ## Herramientas
 - Power BI Desktop
@@ -188,14 +184,14 @@ y optimizado para visualización.
 ### 2. Modelado
 - Estructuración del modelo de datos orientado al análisis histórico.
 - Preparación del dataset para facilitar filtros y segmentaciones.
-- No fue necesario el uso de DAX, ya que las métricas requeridas se obtuvieron
+
+> No fue necesario el uso de DAX, ya que las métricas requeridas se obtuvieron
 directamente desde el modelo transformado.
 
-### 3. Visualización y UX/UI
+### 3. Visualización
 - Diseño de un dashboard intuitivo y de fácil navegación.
 - Uso de filtros para exploración por periodos y categorías.
 - Gráficos claros orientados a análisis temporal y comparativo.
-- Enfoque en legibilidad y experiencia de usuario.
 
 ## Resultados
 - Identificación de tendencias históricas en las ventas de videojuegos.
