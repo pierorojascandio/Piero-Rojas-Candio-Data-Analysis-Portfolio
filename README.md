@@ -18,7 +18,7 @@ Este repositorio tiene como objetivo **mostrar mis habilidades, compartir proyec
 
 ## Tabla de Contenidos
 
-- [Acerca de mí](https://github.com/pierorojascandio/Data-Analysis-Portfolio/blob/main/README.md#acerca-de-mi)
+- [Acerca de mí](https://github.com/pierorojascandio/Data-Analysis-Portfolio/blob/main/README.md#-acerca-de-m%C3%AD)
 
 - [Proyectos](https://github.com/pierorojascandio/Data-Analysis-Portfolio/blob/main/README.md#-proyectos)
    - [Análisis de demanda y variación de precios con Python](https://github.com/pierorojascandio/Data-Analysis-Portfolio/blob/main/README.md#-an%C3%A1lisis-de-demanda-y-variaci%C3%B3n-de-precios-con-python)
@@ -214,4 +214,4 @@ directamente desde el modelo transformado.
 
 ## Contacto
 - LinkedIn: [Piero Rojas Candio](https://www.linkedin.com/in/pierorojascandio/)
-- Email: [pierorojascandio@hotmail.com](pierorojascandio@hotmail.com)
+- Email: [pierorojascandio@hotmail.com](mailto:pierorojascandio@hotmail.com)
