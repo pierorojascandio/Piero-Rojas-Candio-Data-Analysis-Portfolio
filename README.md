@@ -1,4 +1,19 @@
 # Piero Rojas Candio - Portafolio de proyectos
+
+## 👋 Acerca de mí
+
+Hola, soy **Piero Rojas**, Ingeniero de Sistemas de Información colegiado con más de **4 años de experiencia** en los sectores de **banca y consumo masivo**. A lo largo de mi trayectoria, he participado en procesos de auditoría, contabilidad, ventas y reclamos, generando propuestas de valor a través del **análisis de datos**, la **automatización y optimización de procesos**, y la **gestión de proyectos**.
+
+Cuento con sólidos conocimientos en **Business Intelligence y Data Analytics**, trabajando con herramientas como **Power BI (DAX)**, **SQL Server / PL-SQL Oracle**, **Python**, **ETL** y **Excel**, las cuales he aplicado para transformar datos en información clara y accionable para la toma de decisiones. Estoy certificado como **PL-300: Microsoft Power BI Data Analyst Associate**, lo que respalda mi experiencia en modelado de datos, visualización y diseño de dashboards.
+
+Durante mi experiencia profesional he desarrollado una fuerte orientación al negocio, colaborando estrechamente con equipos de IT y usuarios finales, asegurando la calidad de los datos, el rendimiento de las soluciones y una adecuada **experiencia de usuario** en los reportes.
+
+En mi tiempo libre, disfruto seguir aprendiendo sobre nuevas herramientas y enfoques en analítica de datos, automatización y visualización, buscando constantemente mejorar mis habilidades técnicas y analíticas. Me caracterizo por mi **capacidad de análisis, comunicación efectiva, resolución de problemas y trabajo en equipo**.
+
+📄 **Mi CV en PDF:** *(puedes agregar aquí el enlace a tu CV)*
+
+Este repositorio tiene como objetivo **mostrar mis habilidades, compartir proyectos y documentar mi crecimiento profesional en el ámbito de Data Analytics y Business Intelligence**.
+
 # 📊 Análisis de demanda y variación de precios con Python
 
 ## Notebook
