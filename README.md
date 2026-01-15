@@ -75,14 +75,12 @@ El dataset contiene información de ventas con las siguientes variables principa
 
 ---
 
-# 📊 Análisis Histórico de Ventas en la Industria de Videojuegos
+# 📊 Análisis histórico de ventas en la industria de videojuegos
 
 ## Demo del Dashboard
 Puedes visualizar el funcionamiento del dashboard en el siguiente video:
 
 👉 **[Ver demo del dashboard Power BI en Youtube](https://youtu.be/ZmgXrKBB3Sc)**
-
----
 
 ## 📌 Descripción del Proyecto
 Proyecto de Business Intelligence orientado al análisis histórico de ventas en la industria
@@ -93,28 +91,20 @@ El objetivo del dashboard es permitir el análisis de las ventas a lo largo del 
 identificando tendencias, mercados relevantes y desempeño por categorías clave dentro
 de la industria.
 
----
-
 ## Objetivos
 - Analizar el comportamiento histórico de ventas en la industria de videojuegos.
 - Identificar tendencias de crecimiento y periodos de mayor demanda.
 - Comparar ventas por regiones, plataformas y categorías.
 - Facilitar la exploración de datos mediante una interfaz clara e intuitiva.
 
----
-
 ## Fuente de Datos
 - **Archivo Excel** con información histórica de ventas de videojuegos.
 - Datos estructurados y tratados previamente para su análisis en Power BI.
-
----
 
 ## Herramientas
 - Power BI Desktop
 - Power Query (ETL)
 - Microsoft Excel
-
----
 
 ## Proceso de Desarrollo
 
@@ -140,16 +130,7 @@ directamente desde el modelo transformado.
 - Gráficos claros orientados a análisis temporal y comparativo.
 - Enfoque en legibilidad y experiencia de usuario.
 
----
-
 ## Resultados
 - Identificación de tendencias históricas en las ventas de videojuegos.
 - Visualización clara de mercados y periodos con mayor volumen de ventas.
 - Dashboard preparado para análisis exploratorio y toma de decisiones.
-
----
-
-## 🚀 Aprendizajes Clave
-- Uso de Power Query como herramienta central de transformación de datos.
-- Importancia de un buen tratamiento de datos previo a la visualización.
-- Diseño de dashboards orientados a análisis y experiencia de usuario.
