@@ -1,7 +1,7 @@
 # Piero Rojas Candio - Portafolio de proyectos
-# 📊 Análisis de Demanda y Variación de Precios con Python
+# 📊 Análisis de demanda y variación de precios con Python
 
-## 📌 Descripción del Proyecto
+## Descripción
 Proyecto de analítica de datos desarrollado en Python con el objetivo de analizar la relación
 entre la variación de precios y la demanda de productos, y proponer un enfoque predictivo
 que apoye la toma de decisiones comerciales.
@@ -11,7 +11,7 @@ enfocado en definir estrategias de precios competitivas basadas en datos.
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 - Analizar el comportamiento de ventas frente a variaciones de precio.
 - Identificar patrones entre precio base, precio final y unidades vendidas.
 - Realizar análisis exploratorio y estadístico de los datos.
@@ -19,7 +19,7 @@ enfocado en definir estrategias de precios competitivas basadas en datos.
 
 ---
 
-## 🗂️ Dataset
+## Dataset
 El dataset contiene información de ventas con las siguientes variables principales:
 - **ID:** Identificador de la venta
 - **Store ID:** Identificador de la tienda
@@ -29,7 +29,7 @@ El dataset contiene información de ventas con las siguientes variables principa
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 - Python
 - Pandas
 - Jupyter Notebook
@@ -38,7 +38,7 @@ El dataset contiene información de ventas con las siguientes variables principa
 
 ---
 
-## ⚙️ Proceso de Análisis
+## Proceso de Análisis
 1. **Carga y exploración de datos**
    - Inspección de tipos de datos
    - Identificación y tratamiento de valores nulos
@@ -58,22 +58,7 @@ El dataset contiene información de ventas con las siguientes variables principa
 
 ---
 
-## 📈 Resultados y Aprendizajes
+## Resultados y Aprendizajes
 - Se identificó una relación directa entre variación de precios y unidades vendidas.
 - El tratamiento adecuado de datos permitió mejorar la calidad del análisis.
 - El proyecto demuestra el uso de Python como herramienta de análisis de datos aplicada a negocio.
-
----
-
-## 🚀 Próximos Pasos
-- Implementación de modelos de Machine Learning para predicción de demanda.
-- Segmentación de productos y tiendas.
-- Optimización de precios basada en escenarios.
-
----
-
-## 👤 Autor
-**Piero Gilmar Rojas Candio**  
-Ingeniero de Sistemas de Información  
-Especialista en BI, Analítica de Datos y Automatización  
-
