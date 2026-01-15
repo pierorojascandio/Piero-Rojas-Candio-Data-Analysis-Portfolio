@@ -15,8 +15,6 @@ enfocado en definir estrategias de precios competitivas basadas en datos.
 - Realizar análisis exploratorio y estadístico de los datos.
 - Sentar las bases para un modelo predictivo de demanda.
 
----
-
 ## Dataset
 El dataset contiene información de ventas con las siguientes variables principales:
 - **ID:** Identificador de la venta
@@ -25,16 +23,12 @@ El dataset contiene información de ventas con las siguientes variables principa
 - **Base Price:** Precio base del producto
 - **Units Sold:** Unidades vendidas
 
----
-
 ## Tecnologías y Herramientas
 - Python
 - Pandas
 - Jupyter Notebook
 - Análisis estadístico descriptivo
 - Visualización de datos
-
----
 
 ## Proceso de Análisis
 1. **Carga y exploración de datos**
@@ -53,8 +47,6 @@ El dataset contiene información de ventas con las siguientes variables principa
 4. **Insights**
    - Relación entre reducción de precios y aumento de demanda
    - Identificación de tiendas con mayor volumen de ventas
-
----
 
 ## Resultados y Aprendizajes
 - Se identificó una relación directa entre variación de precios y unidades vendidas.
