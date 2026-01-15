@@ -2,7 +2,7 @@
 # 📊 Análisis de demanda y variación de precios con Python
 
 ## Código
-👉 [Ver Notebook – Análisis de Demanda y Precios](notebooks/Avance_Proyecto_Final.ipynb)
+👉 [Ver Notebook – Análisis de Demanda y Precios](notebooks/Proyecto de análisis de demanda y variación de precios.ipynb)
 
 Proyecto de analítica de datos desarrollado en Python con el objetivo de analizar la relación
 entre la variación de precios y la demanda de productos, y proponer un enfoque predictivo
