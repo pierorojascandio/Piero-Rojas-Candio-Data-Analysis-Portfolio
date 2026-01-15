@@ -9,8 +9,6 @@ que apoye la toma de decisiones comerciales.
 El proyecto simula un caso de consultoría para una empresa comercializadora de productos,
 enfocado en definir estrategias de precios competitivas basadas en datos.
 
----
-
 ## Objetivos
 - Analizar el comportamiento de ventas frente a variaciones de precio.
 - Identificar patrones entre precio base, precio final y unidades vendidas.
