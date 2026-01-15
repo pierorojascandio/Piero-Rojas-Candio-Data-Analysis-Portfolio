@@ -147,7 +147,7 @@ directamente desde el modelo transformado.
 ## 🎥 Demo del Dashboard
 Puedes visualizar el funcionamiento del dashboard en el siguiente video:
 
-👉 **[Ver demo del dashboard Power BI](AGREGAR_LINK_DEL_VIDEO)**
+👉 **[Ver demo del dashboard Power BI en Youtube](https://youtu.be/ZmgXrKBB3Sc)**
 
 ---
 
